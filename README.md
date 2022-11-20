@@ -1,4 +1,4 @@
-# deep_reinforcement_learning_project1
+# deep_reinforcement_learning_dqn
 ## Overview
 This project trains an agent to navigate (and collect bananas!) in a large, square world.
 
